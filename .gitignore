@@ -11,7 +11,7 @@ storage/*.key
 .env.*.php
 .env.php
 .env
-
+.htaccess
 Homestead.yaml
 Homestead.json
 
